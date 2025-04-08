@@ -2,7 +2,7 @@
 
 Welcome to **IPL Insights Visualization** — an interactive dashboard that brings IPL data to life with advanced analytics and beautiful visuals. Built using **Apache Spark**, **Streamlit**, and **Plotly**, this app provides insights into player performances, venues, win probabilities, and more.
 
-![App Preview](https://ibb.co/qM9sBXL0)
+![App Preview](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Screenshot%202025-04-08%20183253.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-04-07T13%3A07%3A05.813Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F1ff0e3fe5cb649df%2FScreenshot%25202025-04-08%2520183253.png%3FExpires%3D1838725626%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DtvnmwHj8y3KrQlOp6TkexAe-vxC~cCwDNOk3bftgJtoFjaSLXgvG26Vit7nr-pVDCdPT-1aKzex5ual7OWjIU9m4flF1mftovHQdYLyjwZgJtsJ8DSjERz8bIt6o3VJzRA1HQvknXZf6vn~etQJLoWufeiXH6i7sX2RT0MWDcqta5yltBJLy1V4mahSp7rfw5smN4Veo6guBXS99QUTBpGCHhBaMxfsRFkiDJLEREHl2X4fzg9rRWy~Hx6ZRfbQSe95kAeLQk3l4AdZZ~VWuwVr4ta~MQ9TfmVeWJXmohFjPa5OBGi3vEqEWFHnIR~yIvwPdQ0jh6zaQag2RjMe2-Q__%22%7D)
 
 
 
